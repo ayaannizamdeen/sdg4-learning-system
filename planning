@@ -1,1 +1,32 @@
+Product Vision Document:
+Problem Statement:
+In many universities and schools, information related to academics is often spread across multiple platforms like email, elearning portals, messaging apps, and other tools. This disconnect can make it difficult for students to manage their coursework efficiently. It can lead to important announcements being missed, assignment deadlines being overdue, and students don’t have a clean visual way of viewing their academic progress.
+
+Lecturers and teachers also face challenges in managing assignments, distributing assignments, and tracking their student’s progress efficiently. Without having a unified learning academic system, productivity is reduced, which negatively impacts the learning experience. 
+
+Because of this, there is a strong need for a system that is centralized, structured, and user friendly. A system that improves the learning process by strengthening accessibility to materials, organization, and communication in the academic environment.
+
+Target Users:
+There are a few target users this system is designed for:
+Students: Students need a single platform where they can access course materials submit assignments, view grades, and receive announcements all in one place.
+Lecturers: Lecturers and teachers need an efficient way to upload assignments, grade submissions, and communicate important information to their students in a way that is organized.
+
+Solution:
+UniSync is a centralized learning system that is designed to streamline academic activities. The system will have secure user authentication, a personalized student dashboard that displays timetables and notifications, assignment submission, and grade tracking features. Lectures will have tools that allow them to post assignments, manage submissions, and easily record grades as a mass scale. The system aims to combine important academic functions into one platform to improve accessibility and greatly improve the learning experience for everyone involved.
+
+Product Objectives:
+The main objectives of UniSync are:
+1.	To improve organization of academic resources and deadlines
+2.	To reduce missed assignments and miscommunication
+3.	To improve accessibility of educational materials.
+4.	To provide a structured digital environment that supports learning in an efficient way.
+5.	To make the platform user friendly, so that it is easy to navigate.
+
+Scope:
+The scope of the system includes important features like login authentication, timetable viewing, announcements, assignment submission, grade viewing, lecturer grading functions, and messaging. Advanced features such as artificial intelligence analytics, or administrative financial sections are intentionally left out to maintain a focused and practical development scope for the project.
+
+Link to SDG 4
+This project is directly connected to Sustainable Development Goal 4: Quality Education by improving digital access to organized learning material. By putting all important features in one place and improving communication between students and lecturers, the system creates a more efficient learning environment.
+
+The platform makes sure that students have equal access to important academic information and resources which supports equal education opportunities for all. Through improved organization and accessibility, UniSync strengthens digital learning tools and greatly improves the quality of education delivery.
 
