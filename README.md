@@ -22,5 +22,5 @@ Team Members
 1. Ayaan Aneeq Nizamdeen
 2. Abdullah Faisal Abdullah Mohammed
 3. AQIB S M REZOWAN
-4. Aiman Rashad
+4. Aiman Rashad Bhuiyan
 5. Hah Wen Jun
